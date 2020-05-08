@@ -29,7 +29,7 @@ The results of DPNet on six RGB saliency datasets (ECSSD, HKU-IS, PASCAL-S, SOD,
 
 ## Trained Model
 
-You can download the trained model which is reported in our paper at  [Google Drive]().
+You can download the trained model which is reported in our paper at  [Google Drive](https://drive.google.com/file/d/1w79MKDV59lKtLohcK91C-9w9FL9q_-Vc/view?usp=sharing).
 
 ## Requirement
 
