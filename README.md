@@ -20,7 +20,7 @@ This implementation is written by Jiaxing Chen at the South China University of 
 
 &nbsp;&nbsp;&nbsp;&nbsp;  year={2020},
 
-&nbsp;&nbsp;&nbsp;&nbsp;  publisher={Elsevier}
+&nbsp;&nbsp;&nbsp;&nbsp;  publisher={Elsevier}    
 }
 
 ## Saliency Map
