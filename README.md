@@ -8,19 +8,19 @@ This implementation is written by Jiaxing Chen at the South China University of 
 
 @article{xu2020dual,  
 
-​	title={Dual pyramid network for salient object detection},
+​    title={Dual pyramid network for salient object detection},
 
-​	author={Xu, Xuemiao and Chen, Jiaxing and Zhang, Huaidong and Han, Guoqiang},
+​    author={Xu, Xuemiao and Chen, Jiaxing and Zhang, Huaidong and Han, Guoqiang},
 
-​	journal={Neurocomputing},
+​    journal={Neurocomputing},
 
-​	volume={375},
+​    volume={375},
 
-​	pages={113--123},
+​    pages={113--123},
 
-​	year={2020},
+​    year={2020},
 
-​	publisher={Elsevier}
+​    publisher={Elsevier}
 }
 
 ## Saliency Map
