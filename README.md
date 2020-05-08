@@ -6,7 +6,7 @@ This implementation is written by Jiaxing Chen at the South China University of 
 
 ## Citation
 
-@article{xu2020dual, &nbsp;
+@article{xu2020dual,&nbsp;
 
 ​	title={Dual pyramid network for salient object detection},&nbsp;
 
